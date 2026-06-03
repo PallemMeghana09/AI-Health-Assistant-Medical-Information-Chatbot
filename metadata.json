@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MediCare AI",
+  "description": "An advanced full-stack AI Health Assistant providing symptom checker, medical report runner, fitness/nutrition planner, and mental health assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
