@@ -1,4 +1,4 @@
-# Remix: MediCare AI 🩺✨
+# MediCare AI 🩺✨
 
 **Remix: MediCare AI** is an advanced full-stack AI health assistant. It combines cutting-edge clinical assistance, smart diagnostics visualization, personal wellness planning, and a reliable medicine tracker in a single elegant workspace. Built on modern technologies like React, Vite, Tailwind CSS, Express, and powered by the Google Gemini AI API, MediCare AI offers a highly intuitive patient experience.
 
